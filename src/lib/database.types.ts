@@ -1,0 +1,1 @@
+// This file is intentionally empty as we're no longer using Supabase
